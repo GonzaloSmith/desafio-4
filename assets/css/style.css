@@ -18,6 +18,11 @@ header ul{
     background-color: #28A745;
 }
 
+.navbar {
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+}
+
 /* CARDS */
 
 .imgs-size{
