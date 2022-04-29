@@ -10,12 +10,12 @@ header img{
 }
 
 header ul{
-    color:white;
+    color:rgb(255, 255, 255);
     float: right;
 }
 
 .bg-green{
-    background-color: #28A745;
+    background-color: #030303;
 }
 
 .navbar {
